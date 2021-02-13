@@ -1,3 +1,4 @@
+# this program count the number of characters (character frequency) in a string
 sample_string ="google.com"
 
 frequency = {}
