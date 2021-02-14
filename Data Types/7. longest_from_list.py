@@ -1,4 +1,4 @@
-#python function that takes a list of words and returns the length of the longest one.
+#python function that takes a list of words and returns the length of the longest one. 
 def longest_word(word_list):
     len_word = []
     for i in word_list:
