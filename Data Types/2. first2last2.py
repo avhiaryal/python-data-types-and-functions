@@ -1,5 +1,4 @@
-#python program to get a string made of the first 2 and last 2
-#chars from a given string
+#python program to get a string made of the first 2 and last 2 chars from a given string
 
 def string(str):
     if len(str) < 2:
