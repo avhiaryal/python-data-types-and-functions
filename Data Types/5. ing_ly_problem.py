@@ -1,6 +1,5 @@
-#python program to add 'ing' at the end of a given string.
-#if the given string already ends with 'ing' then add 'ly' instead.
-#length should be 3
+#python program to add 'ing' at the end of a given string. if the given string already ends with 'ing' then add 'ly' 
+#instead.length should be 3
 
 def string(str):
     length = len(str)
