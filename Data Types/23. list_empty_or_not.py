@@ -10,4 +10,3 @@ if not list2:
     print ('list 2 is empty  list')
 else:
     print('list 2 is not empty list')
-    
